@@ -1,0 +1,20 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 3em;
+}
+TABLE{
+    border: black;
+    border-style: double;
+}
+Th{
+    border: black;
+    border-style: double;
+}
+h3{
+    color: rgb(114, 18, 18);
+}
+h2{
+    color:red;
+}

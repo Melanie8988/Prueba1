@@ -1,0 +1,27 @@
+/* comentario en CSS*/
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 7em;
+    margin-right: 7em;
+    margin-top: 3em;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+HR{
+    color:black ; 
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+ 
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
